@@ -14,5 +14,3 @@ Git 명령어 또는 [SourceTree](https://www.sourcetreeapp.com/), [GitKraken](h
 <hr>
 <h3> 기존 폴더는 두고 새로운 프로젝트를 올렸습니다. </h3>
 https://github.com/zinc0214/ComposeFest2021/tree/main/week%201-Jetpack%20Compose%20basics/DevFest2021_ComposeBasicsCodeLab
-
-am/main
